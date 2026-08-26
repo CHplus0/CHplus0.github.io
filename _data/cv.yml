@@ -1,0 +1,46 @@
+- title: 基本信息
+  type: map
+  contents:
+    - name: 姓名
+      value: 朱佳林
+    - name: 学校
+      value: 上海科技大学（ShanghaiTech University）
+    - name: 专业
+      value: 计算机科学与技术 2025 级（本科在读）
+    - name: 邮箱
+      value: zhujl2025@shanghaitech.edu.cn
+    - name: GitHub
+      value: CHplus0
+
+- title: 教育经历
+  type: time_table
+  contents:
+    - title: 计算机科学与技术（本科）
+      institution: 上海科技大学, 上海
+      year: 2025.9 – 至今
+
+- title: 项目经历
+  type: time_table
+  contents:
+    - title: 人脸表情识别优化（CNN + CBAM）
+      institution: 信息科学技术导论课程组队项目
+      year: 2025.12 – 2026.1
+      description:
+        - 基于 FER2013 构建端到端人脸检测与表情分类系统，从数据、模型、训练策略三个层面系统优化 ResNet-18 基线
+        - 引入 CBAM 注意力模块（通道+空间注意力）与标签平滑；通过实验弃用余弦退火+热重启，采用纯余弦退火 25 轮
+        - 测试集全局准确率 77.76%、召回率 75.76%，Sad/Neutral 召回率均衡提升至 ~69%
+        - 将分类模型迁移至 YOLOv5 检测框架，设计裁剪区域优化策略，检测置信度提升至 90%+
+    - title: PintOS 操作系统内核自学
+      institution: 自驱学习（PKU PintOS）
+      year: 2026.2
+      description:
+        - 在 Docker + QEMU 环境中自学教学用操作系统内核，阅读英文原版文档，理解进程/线程、用户态/内核态、同步原语、中断机制
+        - 自学 C + CMake + GDB 双终端远程调试，在内核断点处跟踪线程切换与调度行为
+        - 建立"边读边翻译边提问"的英文文档阅读习惯；评估投入产出后及时止损，转向机器学习方向
+    - title: C++ 游戏开发与 AI 辅助工作流
+      institution: CS100 大作业
+      year: 2026 春
+      description:
+        - 从零实现《植物大战僵尸》I Zombie 模式，设计 GameObject → Plant/Zombie/Projectile 继承体系，遵守 13 条 OOP 规范
+        - 探索"文档先行 → 小步迭代 → 人工审查 → 错误反馈"的 AI 协作工作流，多次指出并拒绝 AI 审查中的错误判断
+        - 明确"人写逻辑 / AI 写脚手架"的协作边界

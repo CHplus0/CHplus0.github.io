@@ -1,0 +1,20 @@
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+assets/libs/
+node_modules/
+vendor
+.idea
+
+# --- local tooling (not part of the site) ---
+.gems/
+.bundle-home/
+content-draft.md
+# local dev helper
+env.sh
