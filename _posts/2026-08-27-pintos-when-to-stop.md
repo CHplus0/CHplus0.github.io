@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PintOS 自学记录：我学会了什么时候该停下来
-date: 2026-08-26
+date: 2026-08-27
 description: 为什么自学操作系统；双终端 GDB 调试体验；以及"及时止损"的决策过程。
 tags: [操作系统, 自学]
 categories: [学习记录]
