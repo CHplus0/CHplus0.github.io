@@ -24,7 +24,9 @@ social: true # includes social icons at the bottom of the page
 
 **3D 视觉与 AI4Science**：相较于 2D 图像停留在"识别出是什么"，3D 视觉能重建出"它长什么样、怎么运动"，并还原出完整的立体空间关系；把技术落地到具身智能与 AI4Science 的真实场景，是我目前正在着力探索的方向。
 
-**LLM 训练与 Agent**：课余对于大语言模型的训练过程，以及 Transformer 架构有所探索。目前已经开源开发了两个 DeepSeek Harness 插件。
+**LLM 训练与 Agent**：课余对于大语言模型的训练过程，以及 Transformer 架构有所探索。目前已经开源开发了两个 DeepSeek Harness 插件：[dsh-learning-mode](https://github.com/CHplus0/dsh-learning-mode) 与 [dsh-shell-command](https://github.com/CHplus0/dsh-shell-command)。
+
+
 
 ## 教育经历
 
