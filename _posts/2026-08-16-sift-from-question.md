@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SIFT 自学笔记：从「点怎么跑到草地上了」开始
+title: SIFT 自学笔记：尺度不变到底保证了什么
 date: 2026-08-16
 description: 尺度不变到底保证了什么；DoG、主方向与 128 维描述子；匹配为什么在描述子空间里找；Lowe ratio test。
 tags: [计算机视觉, 自学]
