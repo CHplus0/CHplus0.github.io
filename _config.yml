@@ -8,11 +8,11 @@ middle_name:
 last_name: Zhu
 email: zhujl2025@shanghaitech.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  朱佳林 · 上海科技大学计算机科学与技术 2025 级本科生 · 研究兴趣：从三维视觉感知走向具身交互的空间表征（世界模型 / VLA）
+  朱佳林 · 上海科技大学计算机科学与技术 2025 级本科生 · 研究兴趣：空间智能与具身世界模型
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: 3D Vision, Spatial Intelligence, Embodied AI, World Model, VLA, Pose Estimation, 上海科技大学
+keywords: Spatial Intelligence, Embodied AI, World Model, Spatial Representation, Pose Estimation, 上海科技大学
 lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

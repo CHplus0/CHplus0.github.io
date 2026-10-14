@@ -22,14 +22,14 @@
 - title: 科研经历
   type: time_table
   contents:
-    - title: 动物姿态数据集：标注质量核查与分层修复
+    - title: 动物姿态数据集：标注质量评估与系统性修复
       institution: 南京大学安亮老师课题组
       year: 2026.8 – 2026.9
       description:
         - 借助 Agent 开发审核工具，逐例核查关键点、边界框、掩码与物种归属
         - 按依赖顺序重标并重新生成掩码，检查修复是否同步写回
         - 以分层盲审与图级置信区间验收修复结果，而非以队列清空为准
-    - title: LoopedPose：循环 Transformer 的二维姿态估计
+    - title: LoopedPose：循环 Transformer 的二维姿态估计与计算效率研究
       institution: 独立课题
       year: 2026.9 – 至今
       description:
@@ -40,7 +40,7 @@
 - title: 研究兴趣
   type: list
   contents:
-    - 从三维视觉感知走向具身交互的空间表征（世界模型 / VLA）
+    - 空间智能与具身世界模型。关注智能体如何从视觉观测中构建、维护和利用物理世界的内部表征，尤其对空间表征、时序建模与基于内部状态的预测和推理感兴趣。
 
 - title: 开源与技术探索
   type: list
