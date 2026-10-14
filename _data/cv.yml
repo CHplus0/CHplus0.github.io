@@ -19,7 +19,36 @@
       institution: 上海科技大学, 上海
       year: 2025.9 – 至今
 
-- title: 项目经历
+- title: 科研经历
+  type: time_table
+  contents:
+    - title: 动物姿态数据集：标注质量核查与分层修复
+      institution: 南京大学安亮老师课题组
+      year: 2026.8 – 2026.9
+      description:
+        - 借助 Agent 开发审核工具，逐例核查关键点、边界框、掩码与物种归属
+        - 按依赖顺序重标并重新生成掩码，检查修复是否同步写回
+        - 以分层盲审与图级置信区间验收修复结果，而非以队列清空为准
+    - title: LoopedPose：循环 Transformer 的二维姿态估计
+      institution: 独立课题
+      year: 2026.9 – 至今
+      description:
+        - 本人提出研究问题、撰写任务书并设定研究约束；复现与实验目前由科研 Agent（DeepScientist）托管执行
+        - 完成 HRNet、ViTPose、RTMPose 等基线复现，评测结果经独立复算核验
+        - 首轮循环方案执行中；复现完成后本人将审阅各阶段报告并确定后续研究目标
+
+- title: 研究兴趣
+  type: list
+  contents:
+    - 从三维视觉感知走向具身交互的空间表征（世界模型 / VLA）
+
+- title: 开源与技术探索
+  type: list
+  contents:
+    - 学习机器学习与 Transformer 架构，探索 Agent 辅助开发与学习的工作方式
+    - '开源 DeepSeek Harness 插件：<a href="https://github.com/CHplus0/dsh-learning-mode">dsh-learning-mode</a> 与 <a href="https://github.com/CHplus0/dsh-shell-command">dsh-shell-command</a>'
+
+- title: 课程项目与自主学习
   type: time_table
   contents:
     - title: 人脸表情识别优化（CNN + CBAM）

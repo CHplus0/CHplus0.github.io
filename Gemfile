@@ -10,7 +10,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
-    gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
 end

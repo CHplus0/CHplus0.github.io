@@ -6,6 +6,7 @@ description: 为什么自学操作系统；双终端 GDB 调试体验；以及"�
 tags: [操作系统, 自学]
 categories: [学习记录]
 featured: false
+published: false # 尚有待本人完成的开头，不作为已完成文章展示
 ---
 
 <!--
